@@ -13,8 +13,9 @@
 
 **Resultado FEITO NA AUTOMAÇÃO:**
 - A mensagem de erro "Mensagem não pode exceder 400 caracteres"  não está aprecendo, um BUG encontrado a mesma está permitando cracteres acima de 400, neste caso para não ter quebra de código, deve ter ajuste para verificar esta validação. Evidência irá ser anexada do erro!
-- ![Uploading Imagem do WhatsApp de 2024-07-25 à(s) 18.38.25_f1037c16.jpg…]()
 
+
+![Uploading Imagem do WhatsApp de 2024-07-25 à(s) 18.38.25_638311ca.jpg…]()
 
 
 ///////////////////////////////////////////////////////////////////////////////////////
