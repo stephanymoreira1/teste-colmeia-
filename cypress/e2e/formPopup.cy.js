@@ -1,5 +1,3 @@
-// cypress/e2e/formPopup.spec.js
-
 describe('Contact Form Popup', () => {
     it('should display and close the contact form popup', () => {
         cy.visit('/');

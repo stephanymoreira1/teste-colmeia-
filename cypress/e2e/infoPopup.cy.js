@@ -1,4 +1,3 @@
-
 describe('More Info Popup', () => {
     it('should display and close the more info popup', () => {
         cy.visit('/');
