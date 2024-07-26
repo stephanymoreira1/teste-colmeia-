@@ -38,3 +38,6 @@
 -  A mensagem de erro mensagem "Número de telefone deve ter exatamente 9 dígitos  não está aprecendo, um BUG encontrado pois é como se fosse um numero de telefone completo mas está incompelto e deveria aparecer a mensagem, neste caso para não ter quebra de código fiz com que automatize mesmo assim, deve ter ajuste para verificar esta validação corretamente.
 
 //////////////////////////////////////////////////////////////////////////////////////
+
+![image](https://github.com/user-attachments/assets/5d2b9e02-ff24-4010-b332-0a688ad0339b)
+
