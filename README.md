@@ -40,6 +40,8 @@
 
 
 //////////////////////////////////////////////////////////////////////////////////////
+comando: npx cypress run ( que etsá no arquivo package.json)
 
 ![image](https://github.com/user-attachments/assets/5d2b9e02-ff24-4010-b332-0a688ad0339b)
 
+caso deseje abrir com cypress : npx cypress open
