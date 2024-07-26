@@ -14,8 +14,8 @@
 **Resultado FEITO NA AUTOMAÇÃO:**
 - A mensagem de erro "Mensagem não pode exceder 400 caracteres"  não está aprecendo, um BUG encontrado a mesma está permitando cracteres acima de 400, neste caso para não ter quebra de código, deve ter ajuste para verificar esta validação. Evidência irá ser anexada do erro!
 
+![image](https://github.com/user-attachments/assets/d60d138e-507a-4e03-aff9-21d6cdc76e75)
 
-![Uploading Imagem do WhatsApp de 2024-07-25 à(s) 18.38.25_638311ca.jpg…]()
 
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -36,6 +36,8 @@
 
 **Resultado FEITO NA AUTOMAÇÃO:**
 -  A mensagem de erro mensagem "Número de telefone deve ter exatamente 9 dígitos  não está aprecendo, um BUG encontrado pois é como se fosse um numero de telefone completo mas está incompelto e deveria aparecer a mensagem, neste caso para não ter quebra de código fiz com que automatize mesmo assim, deve ter ajuste para verificar esta validação corretamente.
+-  ![image](https://github.com/user-attachments/assets/5ac2b175-8693-4266-bd88-b8b42026c926)
+
 
 //////////////////////////////////////////////////////////////////////////////////////
 
